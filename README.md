@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,2&height=180&section=header&text=learning-log&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=labdhi%20·%20c00kiebuilds%20·%20day%20by%20day%20·%20honest%20entries%20only&descSize=13&descAlignY=82&descColor=c084fc" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0a1e,50:4c1d95,100:7c3aed&height=180&section=header&text=learning-log&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=labdhi%20·%20c00kiebuilds%20·%20day%20by%20day%20·%20honest%20entries%20only&descSize=13&descAlignY=82&descColor=c084fc" />
 
 <br/>
 
@@ -36,47 +35,31 @@ one `.md` file per day. no skipping. no faking.
 
 
 
-![](https://img.shields.io/badge/START-April_19_2026-7c3aed?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/START-April_19_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/GOAL-July_16_2026-7c3aed?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/GOAL-July_16_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
 
 
 
 
 
-![](https://img.shields.io/badge/DAYS-88_total-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/DEVICE-tablet_only-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
-
-
-
-
-![](https://img.shields.io/badge/LAPTOP-not_yet-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/DAYS-88_total-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/SPIRIT-unbreakable-a855f7?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/DEVICE-tablet_only-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 
 
-<br/>
 
-```python
-# the honest version
-name     = "Labdhi · cookie"
-device   = "Samsung tablet + Pydroid 3"
-laptop   = None  # not yet · doesn't stop me
-started  = "April 19, 2026"
-target   = "July 16, 2026"
-days     = 88
-goal     = "ML engineer · masters abroad · fully funded"
-status   = "day 1 of ∞ · building in public"
-```
+
+![](https://img.shields.io/badge/LAPTOP-not_yet-4c1d95?style=for-the-badge&labelColor=0f172a)
+
+ &nbsp; 
+
+![](https://img.shields.io/badge/SPIRIT-unbreakable-c084fc?style=for-the-badge&labelColor=0f172a)
 
 <br/>
 
@@ -90,31 +73,31 @@ status   = "day 1 of ∞ · building in public"
 
 
 
-![](https://img.shields.io/badge/🐍_PYTHON-daily_practice-7c3aed?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/🐍_PYTHON-daily_practice-7c3aed?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/∑_MATH-khan_academy-7c3aed?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/∑_MATH-khan_academy-7c3aed?style=for-the-badge&labelColor=0f172a)
 
 
 
 
 
-![](https://img.shields.io/badge/🤖_AI/ML-concepts_%26_reading-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/🏅_CERTS-kaggle_%26_google-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
-
-
-
-
-![](https://img.shields.io/badge/🐙_GITHUB-daily_commits-6d28d9?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/🤖_AI/ML-concepts_%26_reading-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/📝_NOTES-samsung_notes-6d28d9?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/🏅_CERTS-kaggle_%26_google-4c1d95?style=for-the-badge&labelColor=0f172a)
+
+
+
+
+
+![](https://img.shields.io/badge/🐙_GITHUB-daily_commits-22c55e?style=for-the-badge&labelColor=0f172a)
+
+ &nbsp; 
+
+![](https://img.shields.io/badge/📝_NOTES-samsung_notes-22c55e?style=for-the-badge&labelColor=0f172a)
 
 
 
@@ -130,41 +113,41 @@ status   = "day 1 of ∞ · building in public"
 
 
 
-![](https://img.shields.io/badge/KAGGLE_PYTHON-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/KAGGLE_PYTHON-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/KAGGLE_ML-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/KAGGLE_ML-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 
 
 
 
-![](https://img.shields.io/badge/KAGGLE_PANDAS-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
- &nbsp; 
-
-![](https://img.shields.io/badge/KAGGLE_DATA_VIZ-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
-
-
-
-
-
-![](https://img.shields.io/badge/KAGGLE_DEEP_LEARNING-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/KAGGLE_PANDAS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/GOOGLE_AI_ESSENTIALS-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/KAGGLE_DATA_VIZ-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 
 
 
 
-![](https://img.shields.io/badge/KAGGLE_FEATURE_ENG-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/KAGGLE_DEEP_LEARNING-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/KAGGLE_AI_ETHICS-pending-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/GOOGLE_AI_ESSENTIALS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
+
+
+
+
+
+![](https://img.shields.io/badge/KAGGLE_FEATURE_ENG-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
+
+ &nbsp; 
+
+![](https://img.shields.io/badge/KAGGLE_AI_ETHICS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 
 
@@ -184,21 +167,21 @@ status   = "day 1 of ∞ · building in public"
 
 
 
-![](https://img.shields.io/badge/GOOD_DAYS-everything_clicked-6d28d9?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/GOOD_DAYS-everything_clicked-22c55e?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/HARD_DAYS-showed_up_anyway-7c3aed?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/HARD_DAYS-showed_up_anyway-eab308?style=for-the-badge&labelColor=0f172a)
 
 
 
 
 
-![](https://img.shields.io/badge/STUCK_DAYS-figured_it_out-a855f7?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/STUCK_DAYS-figured_it_out-7c3aed?style=for-the-badge&labelColor=0f172a)
 
  &nbsp; 
 
-![](https://img.shields.io/badge/REST_DAYS-earned_not_skipped-4c1d95?style=for-the-badge&labelColor=0f0a1e)
+![](https://img.shields.io/badge/REST_DAYS-earned_not_skipped-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 
 
