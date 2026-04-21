@@ -101,7 +101,7 @@ python · math · ai/ml · written from scratch on a tablet. one `.md` file per 
 
 <br/>
 
-> as each one lands · the badge turns green · watch this section fill up
+> `` as each one lands · the badge turns green · watch this section fill up ``
 
 <br/>
 
@@ -127,7 +127,7 @@ python · math · ai/ml · written from scratch on a tablet. one `.md` file per 
 
 <br/>
 
-*every entry is dated · every struggle is logged · nothing is hidden*
+> `` every entry is dated · every struggle is logged · nothing is hidden ``
 
 <br/>
 
