@@ -33,11 +33,11 @@ python · math · ai/ml · written from scratch on a tablet. one `.md` file per 
 
 
 
-![](https://img.shields.io/badge/START-April_19_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/START-April_21_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
 
 ![](https://img.shields.io/badge/GOAL-July_16_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
 
-![](https://img.shields.io/badge/DAYS-88_total-4c1d95?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/DAYS-87_total-4c1d95?style=for-the-badge&labelColor=0f172a)
 
 ![](https://img.shields.io/badge/DEVICE-tablet_only-4c1d95?style=for-the-badge&labelColor=0f172a)
 
