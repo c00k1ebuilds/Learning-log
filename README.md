@@ -19,9 +19,7 @@
 <br/>
 
 a daily journal of my self-study journey.
-python · math · ai/ml · written from scratch on a tablet.
-
-one `.md` file per day. no skipping. no faking.
+python · math · ai/ml · written from scratch on a tablet. one `.md` file per day. no skipping. no faking.
 
 <br/>
 
@@ -37,27 +35,13 @@ one `.md` file per day. no skipping. no faking.
 
 ![](https://img.shields.io/badge/START-April_19_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/GOAL-July_16_2026-7c3aed?style=for-the-badge&labelColor=0f172a)
-
-
-
-
 
 ![](https://img.shields.io/badge/DAYS-88_total-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/DEVICE-tablet_only-4c1d95?style=for-the-badge&labelColor=0f172a)
 
-
-
-
-
 ![](https://img.shields.io/badge/LAPTOP-not_yet-4c1d95?style=for-the-badge&labelColor=0f172a)
-
- &nbsp; 
 
 ![](https://img.shields.io/badge/SPIRIT-unbreakable-c084fc?style=for-the-badge&labelColor=0f172a)
 
@@ -75,27 +59,13 @@ one `.md` file per day. no skipping. no faking.
 
 ![](https://img.shields.io/badge/🐍_PYTHON-daily_practice-7c3aed?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/∑_MATH-khan_academy-7c3aed?style=for-the-badge&labelColor=0f172a)
-
-
-
-
 
 ![](https://img.shields.io/badge/🤖_AI/ML-concepts_%26_reading-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/🏅_CERTS-kaggle_%26_google-4c1d95?style=for-the-badge&labelColor=0f172a)
 
-
-
-
-
 ![](https://img.shields.io/badge/🐙_GITHUB-daily_commits-22c55e?style=for-the-badge&labelColor=0f172a)
-
- &nbsp; 
 
 ![](https://img.shields.io/badge/📝_NOTES-samsung_notes-22c55e?style=for-the-badge&labelColor=0f172a)
 
@@ -115,41 +85,19 @@ one `.md` file per day. no skipping. no faking.
 
 ![](https://img.shields.io/badge/KAGGLE_PYTHON-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/KAGGLE_ML-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
-
-
-
-
 
 ![](https://img.shields.io/badge/KAGGLE_PANDAS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/KAGGLE_DATA_VIZ-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
-
-
-
-
 
 ![](https://img.shields.io/badge/KAGGLE_DEEP_LEARNING-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/GOOGLE_AI_ESSENTIALS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
-
-
-
-
 
 ![](https://img.shields.io/badge/KAGGLE_FEATURE_ENG-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/KAGGLE_AI_ETHICS-pending-4c1d95?style=for-the-badge&labelColor=0f172a)
-
-
 
 <br/>
 
@@ -169,17 +117,9 @@ one `.md` file per day. no skipping. no faking.
 
 ![](https://img.shields.io/badge/GOOD_DAYS-everything_clicked-22c55e?style=for-the-badge&labelColor=0f172a)
 
- &nbsp; 
-
 ![](https://img.shields.io/badge/HARD_DAYS-showed_up_anyway-eab308?style=for-the-badge&labelColor=0f172a)
 
-
-
-
-
 ![](https://img.shields.io/badge/STUCK_DAYS-figured_it_out-7c3aed?style=for-the-badge&labelColor=0f172a)
-
- &nbsp; 
 
 ![](https://img.shields.io/badge/REST_DAYS-earned_not_skipped-4c1d95?style=for-the-badge&labelColor=0f172a)
 
