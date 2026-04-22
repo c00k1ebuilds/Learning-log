@@ -16,6 +16,6 @@ Key things that clicked today:
 - List slicing [1:4] excludes the last index, not includes it
 - Negative indexing like [-1] lets you access from the back of the list
 
-Khan Academy: [will update this later when I finish]
+Khan Academy: completed 2 videos of linear algebra 
 
 Honest note: Did all of this on a tablet. No laptop. Day 2 done.
